@@ -1,1 +1,1 @@
-# GIA
+# Apuntes Grado en Inteligencia Artificial
